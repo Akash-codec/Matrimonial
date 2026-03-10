@@ -1,5 +1,4 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { BiodataProvider } from './context/BiodataContext';
 import Home from './pages/Home';
 import BiodataBuilder from './pages/BiodataBuilder';

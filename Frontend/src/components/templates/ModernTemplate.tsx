@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { BiodataContext } from '../../context/BiodataContext';
 
 export default function ModernTemplate() {

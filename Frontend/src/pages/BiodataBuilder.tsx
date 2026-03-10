@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import PersonalDetailsForm from '../components/forms/PersonalDetailsForm';
 import ContactDetailsForm from '../components/forms/ContactDetailsForm';
 import EducationProfessionForm from '../components/forms/EducationProfessionForm';
