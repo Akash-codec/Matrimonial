@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://matrimonial-s3yy.onrender.com/api';
 
 /**
  * Register a new user
